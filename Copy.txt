@@ -1,0 +1,131 @@
+COPY DA LANDING PAGE - ARENA TOLDOS E PLACAS (Lavras-MG)
+
+Tom: firme, direto e confiável. Frases curtas, linguagem de obra bem feita, sem exagero.
+Objetivo único: levar o visitante para o pedido de orçamento no WhatsApp.
+Dados reais usados: bio do Instagram (toldos, placas e coberturas em policarbonato; Lavras e região; preço e qualidade; compromisso com o cliente), Google Maps (nota 4,8 com 211 avaliações, Av. Fábio Modesto, 386, Centro, (35) 99230-2451, fecha às 18:00, resumo e 3 avaliações com nome), 9 fotos de obras do Instagram.
+Não usado de propósito: preços, prazos em dias, garantias, número de obras, anos de empresa, nome do dono, resina epóxi e móveis (linha à parte), e o rótulo "acolhe a comunidade LGBTQ+" do Maps (só entra se o dono quiser).
+Onde o dado não está confirmado, aparece entre colchetes (visível ao abrir o site com ?revisao no final do endereço).
+
+======================================================
+0. TOPO
+======================================================
+Logo nova (ícone de telhado com toldo + ARENA) | friso de toldo listrado sob o cabeçalho
+Menu: Serviços | Monte seu projeto | Obras | Avaliações | Onde estamos
+Botão: Pedir orçamento
+
+======================================================
+1. HERO
+======================================================
+Etiqueta: Lavras e região
+Título: Toldos e coberturas com preço justo e prazo cumprido
+Subtítulo: Toldos, placas e coberturas em policarbonato, feitos por uma equipe que clientes elogiam pela pontualidade e pela limpeza no fim da obra.
+Botões: Pedir orçamento | Monte o seu projeto
+Apoio: Orçamento pelo WhatsApp, sem compromisso.
+Selo sobre a foto: 4,8 | no Google, 211 avaliações
+
+Faixa: 4,8 no Google (211 avaliações) | Preço justo (o tema mais citado nas avaliações) | Prazo cumprido (pontualidade elogiada) | Obra limpa (limpeza completa depois do serviço)
+
+======================================================
+2. SERVIÇOS
+======================================================
+Título: Cobertura para cada espaço
+Subtítulo: Toldos, placas e coberturas em policarbonato para varandas, áreas gourmet, garagens e fachadas.
+01 Coberturas em policarbonato: Proteção contra sol e chuva para áreas externas, com a luz do dia passando pelo teto.
+02 Pergolados: Madeira e policarbonato juntos, para uma varanda ou área de lazer com acabamento de projeto.
+03 Toldos e placas: Toldos, inclusive verticais, para fechar e proteger laterais e fachadas. [CONFIRMAR O QUE SÃO "PLACAS" NO ESCOPO DA EMPRESA]
+Link de cada card: Ver obras (filtra a galeria)
+
+======================================================
+3. MONTE O SEU PROJETO (simulador)
+======================================================
+Título: Veja como a sua cobertura pode ficar
+Subtítulo: Escolha o tipo, a cor e o tamanho aproximado. Quando estiver do seu jeito, mande para a equipe pelo WhatsApp.
+Opções: Tipo (Cobertura, Pergolado, Toldo, Toldo vertical) | Cor do policarbonato (Transparente, Fumê) | Largura aproximada (2 a 12 m) | Profundidade aproximada (1,5 a 8 m)
+Ilustração que muda ao vivo e legenda com o resumo.
+Botão: Enviar projeto no WhatsApp
+Apoio: Medidas aproximadas. O orçamento é combinado com a equipe da Arena.
+Mensagem pronta: "Olá! Vim pelo site da Arena Toldos e Placas e montei um projeto: <tipo> <cor>, cerca de X m de largura por Y m de profundidade. Gostaria de um orçamento."
+
+======================================================
+4. OBRAS
+======================================================
+Título: Trabalhos entregues
+Subtítulo: Fotos de instalações da Arena em Lavras e região. Toque em uma foto para ampliar.
+Filtros: Todas | Coberturas | Pergolados | Toldos
+Fecho: Quer ver mais obras? Veja o Instagram ou fale com a equipe. | @arenatoldoseplacas
+
+======================================================
+5. POR QUE A ARENA
+======================================================
+Título: Preço e qualidade, com compromisso (frase da bio do Instagram)
+Subtítulo: É assim que a Arena se apresenta, e é o que os clientes destacam nas avaliações do Google.
+- Preço justo: "Preço" é a palavra mais repetida nas avaliações, com 32 menções.
+- Prazo cumprido: Clientes contam que a equipe marcou dia e hora e compareceu como combinado.
+- Execução precisa: Materiais de qualidade e instalação bem feita estão entre os elogios mais frequentes.
+- Obra limpa: Os clientes valorizam a limpeza completa feita pela equipe depois do serviço.
+Rodapé da seção: Com base no resumo das avaliações públicas do Google. [CONFIRMAR COM A EMPRESA ANTES DE PUBLICAR]
+
+======================================================
+6. AVALIAÇÕES
+======================================================
+Título: O que dizem os clientes
+Nota: 4,8 | 211 avaliações no Google
+Temas (menções nas avaliações): preço 32 | orçamento 10 | equipe 10 | prazo 9
+1. "Excelentes! Fazem um trabalho rápido, eficiente e de qualidade. Recomendo!" Diego L.
+2. "Desde o primeiro contato foi atencioso! Marcou o dia e o horário pra fazer o serviço aqui em Itutinga e compareceu conforme o combinado, mostrando compromisso! Indico o trabalho, sabe o que faz!" Renisa R.
+3. "Atendimento maravilhoso, desde o primeiro contato até o serviço executado, sempre muito solícito." Renata S.
+(nomes abreviados; trechos das avaliações do Google)
+Link: Ver todas as avaliações no Google
+
+======================================================
+7. DÚVIDAS
+======================================================
+- Como peço um orçamento? Pelo WhatsApp. Você pode usar o "Monte o seu projeto" aqui no site e enviar a ideia pronta, ou simplesmente chamar a equipe e contar o que precisa.
+- O que a Arena faz? Toldos, placas e coberturas em policarbonato. Nas obras do site aparecem coberturas, pergolados com policarbonato e toldos verticais. [CONFIRMAR LISTA COMPLETA DE SERVIÇOS]
+- Vocês atendem fora de Lavras? A Arena atende Lavras e região. Um cliente conta, em uma avaliação, que o serviço foi feito em Itutinga. [CONFIRMAR AS CIDADES ATENDIDAS]
+- Qual é o prazo e o valor? Prazo e valor dependem do projeto e são combinados no orçamento. Nas avaliações, clientes destacam preço justo e prazos cumpridos. [PRAZOS E FORMAS DE PAGAMENTO A CONFIRMAR]
+- Onde fica a Arena? Na Av. Fábio Modesto, 386, no Centro de Lavras.
+
+======================================================
+8. ONDE ESTAMOS
+======================================================
+Título: No Centro de Lavras
+Texto: Atendemos Lavras e região.
+Endereço: Av. Fábio Modesto, 386 - Centro, Lavras - MG, 37200-000 [CONFIRMAR: A LOGO ANTIGA DIZ "RUA FÁBIO MODESTO, 136"]
+Horário: [HORÁRIO COMPLETO A CONFIRMAR. O Google mostra "fecha às 18:00"]
+WhatsApp: (35) 99230-2451
+Instagram: @arenatoldoseplacas
+Botões: Como chegar | Falar no WhatsApp
+
+======================================================
+9. ORÇAMENTO COM FORMULÁRIO
+======================================================
+Título: Pronto para cobrir o seu espaço?
+Subtítulo: Conte o que você precisa. A equipe responde pelo WhatsApp, sem compromisso.
+Campos: Seu nome | O que você precisa (Cobertura em policarbonato, Pergolado, Toldo, Toldo vertical, Ainda não sei) | Cidade (opcional)
+Botão: Enviar pelo WhatsApp
+Erros: Digite seu nome para a equipe saber com quem está falando. | Escolha uma opção, ou "Ainda não sei".
+Apoio: Sem compromisso. Usamos o que você informa só para responder pelo WhatsApp.
+
+======================================================
+RODAPÉ
+======================================================
+Arena Toldos e Placas | Toldos, placas e coberturas em policarbonato. Preço e qualidade, com compromisso.
+WhatsApp (35) 99230-2451 | Instagram @arenatoldoseplacas | Av. Fábio Modesto, 386 - Centro, Lavras - MG, 37200-000
+
+======================================================
+BOTÕES DE WHATSAPP: LINK
+======================================================
+Todos apontam para https://wa.me/5535992302451 (telefone do Maps, que bate com o da logo antiga).
+
+======================================================
+PENDÊNCIAS: CONFIRMAR COM A EMPRESA
+======================================================
+1. O que são "placas" no escopo (policarbonato, sinalização ou outro).
+2. Lista completa de serviços e se a resina epóxi e os móveis entram no site.
+3. Endereço oficial: Av. Fábio Modesto, 386 (Maps) ou Rua Fábio Modesto, 136 (logo antiga).
+4. Cidades atendidas além de Lavras (Itutinga aparece numa avaliação).
+5. Horário completo, prazos e formas de pagamento.
+6. Autorização para citar as avaliações e usar as fotos das obras (e se os clientes das casas aparecem).
+7. Se a logo nova (criada do zero, mantendo vermelho, amarelo e preto) é aprovada pelo dono.
+8. Se querem mencionar que acolhem a comunidade LGBTQ+ (rótulo do Maps).
